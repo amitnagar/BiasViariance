@@ -1,4 +1,4 @@
-Enter file contents here#Study the impact of fitting regression models of varying degrees - linear, quadratic, and cubic to a data set consisting of randomly generated 
+#Enter file contents here#Study the impact of fitting regression models of varying degrees - linear, quadratic, and cubic to a data set consisting of randomly generated 
 #predictor variables and response variables generated from a know function with added random noise.
 
 #We create a train and a test sample from the data set using Holdout cross validation 

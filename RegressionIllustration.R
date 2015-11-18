@@ -1,15 +1,14 @@
 #Enter file contents here
 
 #Study the impact of fitting regression models of varying degrees - linear, quadratic, and cubic to a data set 
-#consisting of randomly generated predictor variables (X) and response variables (y) generated from a know function 
+#consisting of randomly generated predictor variables (X) and response variables (y) generated from a known function 
 #with added random noise.
 
-#We create a train and a test sample from the data set using Holdout cross validation 
-#technique. Fit the linear, quadratic, and cubic models to the training set. Compute the training mean squared error (MSE) and then check the MSE for the 
-#test set using the regeression coefficients.  
+#We start by creating a train and a test sample from the data set using holdout cross validation technique. 
+#Fit the linear, quadratic, and cubic models to the training set. Compute the training mean squared errors (MSE) and then
+#compare with the MSE for the test set using the derived regeression coefficients.  
 
-#We plot the scatter plot overlaid with various regression fits and finally compare the 
-#MSE for the training and test set. 
+#We plot the scatter plot overlaid with various regression fits.
 
 #We do note that this exercise can be made more generic by using multiple training and test sets 
 #as suggested in the literature. 
